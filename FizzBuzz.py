@@ -8,4 +8,4 @@ def fizz_buzz(num):
     else:
         return num
 
-print(fizz_buzz(int(15)))
+print(fizz_buzz(int()))
